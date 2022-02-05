@@ -11,5 +11,36 @@ Over the course of several weeks, students met individually with the instructors
 
 Here is Thuy-Tien Le's description of how she created her final project ([PDF]({{< baseurl >}}/resources/mites_240s06_blurb_for_ocw)). (Courtesy of Thuy-Tien Le.  Used with permission.)
 
-| [Dressdown]({{< baseurl >}}/pages/projects/dressdown) by Mirat Shah (Courtesy of Mirat Shah. Used with permission.)  {{< br >}}  {{< br >}}"I hoped to reveal everything I carry with me on the inside using my outside appearance." | [![Photographic collage of the artist's clothing.]({{< resource_file b628a4b4-fa43-2007-584c-197a185aeb45 >}})]({{< baseurl >}}/resources/dressdown1) {{< br >}}{{< br >}} Photograph of Marat Shah's final project. {{< br >}}{{< br >}}  |
-| [Wa\*lt\*er]({{< baseurl >}}/pages/projects/wa_lt_er) by Youn-Jae Walter Song (Courtesy of Youn-Jae Walter Song. Used with permission.)  {{< br >}}  {{< br >}}"...a physical representation of the inner struggle of my thought process and the methodology for the decisions that I make." | [![A grid containing elements of the artist's life.]({{< resource_file f9855bda-e544-eea8-bbf1-629e9e5c784a >}})]({{< baseurl >}}/resources/walter4) {{< br >}}{{< br >}} Photograph of Youn-Jae Walter Song's final project. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Dressdown]({{< baseurl >}}/pages/projects/dressdown) by Mirat Shah (Courtesy of Mirat Shah. Used with permission.)  
+  
+"I hoped to reveal everything I carry with me on the inside using my outside appearance."
+{{< tdclose >}}
+{{< tdopen >}}
+[![Photographic collage of the artist's clothing.]({{< resource_file b628a4b4-fa43-2007-584c-197a185aeb45 >}})]({{< baseurl >}}/resources/dressdown1)
+
+Photograph of Marat Shah's final project.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Wa\*lt\*er]({{< baseurl >}}/pages/projects/wa_lt_er) by Youn-Jae Walter Song (Courtesy of Youn-Jae Walter Song. Used with permission.)  
+  
+"...a physical representation of the inner struggle of my thought process and the methodology for the decisions that I make."
+{{< tdclose >}}
+{{< tdopen >}}
+[![A grid containing elements of the artist's life.]({{< resource_file f9855bda-e544-eea8-bbf1-629e9e5c784a >}})]({{< baseurl >}}/resources/walter4)
+
+Photograph of Youn-Jae Walter Song's final project.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

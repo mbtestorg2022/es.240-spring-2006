@@ -40,8 +40,45 @@ This class requires regular attendance (no more than 3 classes missed), complet
 Basis for Grade
 ---------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Project | 30% |
-| Weekly Homework (Including Reading and Assigned Exercises) | 20% |
-| Class Participation and In-class Exercises | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Homework (Including Reading and Assigned Exercises)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation and In-class Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
