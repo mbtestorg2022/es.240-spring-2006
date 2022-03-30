@@ -11,6 +11,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: eeeb66a9-5f4b-2b56-ce9d-282babc3aea3
 resourcetype: Image
 title: draw_yr_life_1.jpg
 uid: 695a21f1-aa42-4bce-364d-2ff3e61d20f4
